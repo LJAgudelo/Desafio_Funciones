@@ -1,0 +1,10 @@
+.cajas{
+    border-radius: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    height: 100vh;
+   
+    
+}
+
